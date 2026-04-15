@@ -1,0 +1,8 @@
+{
+  "name": "xhs-ai-content-flow-scripts",
+  "version": "1.0.0",
+  "description": "Markdown to Xiaohongshu image card renderer",
+  "dependencies": {
+    "playwright-core": "^1.59.1"
+  }
+}
