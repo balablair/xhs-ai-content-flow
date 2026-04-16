@@ -22,7 +22,7 @@
 
 配图和发布文案全部就位，复制粘贴就能发。
 
-<img width="800" height="1144" alt="0a7c689ca023cc9617c467d26285d403" src="https://github.com/user-attachments/assets/a975323c-5531-4d26-90c6-eb26fb4780e9" /><img width="1690" height="800" alt="5b22ceae17f4577b2c095204798a1adb" src="https://github.com/user-attachments/assets/71aebd6e-f1fa-436e-a6a3-01b10875b989" />
+<img width="800" height="1144" alt="0a7c689ca023cc9617c467d26285d403" src="https://github.com/user-attachments/assets/a975323c-5531-4d26-90c6-eb26fb4780e9" /><img width="800" height="1144" alt="5b22ceae17f4577b2c095204798a1adb" src="https://github.com/user-attachments/assets/71aebd6e-f1fa-436e-a6a3-01b10875b989" />
 
 ---
 
